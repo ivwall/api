@@ -1,0 +1,10 @@
+
+
+https://github.com/Philipinho/CoinGecko-Java
+
+https://www.javaguides.net/p/restful-tutorial.html
+
+https://rapidapi.com/blog/how-to-use-an-api-with-java/
+
+
+
