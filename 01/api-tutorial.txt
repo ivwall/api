@@ -2,6 +2,8 @@
 
 https://github.com/Philipinho/CoinGecko-Java
 
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
 https://www.javaguides.net/p/restful-tutorial.html
 
 https://rapidapi.com/blog/how-to-use-an-api-with-java/
